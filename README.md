@@ -1,1 +1,1 @@
-# Lightning-Algo
+This program has randomly generates lightning bolts which travel downwards. The fastest bolt wins! This is a very simple and unless project but the output is funny so I've stored it in this repository.
